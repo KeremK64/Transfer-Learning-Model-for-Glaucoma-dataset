@@ -12,3 +12,6 @@ Used transfer learning techniques to create the model. Pre-trained model I used 
 
 Achieved ~93.5% accuracy on this model, which is the highest among my models.  
 ![image](https://github.com/KeremK64/Transfer-Learning-Model-for-Glaucoma-dataset/assets/105675626/4ab7b778-84bd-45e1-aa6c-d9cebc821d90)
+
+
+You can also follow the leaderboard for this dataset from [here](https://github.com/TheBeastCoding/glaucoma-dataset-metadata/blob/main/benchmark-eyepacs-airogs-light.md).
